@@ -8,7 +8,7 @@ package customermailapplication;
 
 /**
  *
- * @author sarun
+ * @author nick
  */
 //make this class a subclass of customer
 public class DelinquentCustomer extends Customer {

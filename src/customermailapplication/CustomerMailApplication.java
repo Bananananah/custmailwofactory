@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author sarun
+ * @author nickk
  */
 public class CustomerMailApplication {
 
